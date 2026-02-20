@@ -32,8 +32,14 @@ Hi! I'm a Computer Science student passionate about technology and problem-solvi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroViana42&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroViana42&layout=compact&theme=dracula&hide_border=true" height="150" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroViana42&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" 
+    height="150" 
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroViana42&layout=compact&theme=dracula&hide_border=true&count_private=true" 
+    height="150" 
+  />
 </div>
 
 <br>
