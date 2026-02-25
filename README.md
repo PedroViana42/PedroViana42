@@ -1,41 +1,37 @@
 <h1 align="center">Pedro Augusto</h1>
 <p align="center">
-Computer Science Student • Backend Focus • Systems & Architecture
+Computer Science Student • Full-Stack • Systems • Always Learning
 </p>
 
 ---
 
 ### About
 
-Computer Science student passionate about building systems that are clean, scalable and well-structured.
+I’m a Computer Science student who enjoys building, breaking and understanding how things work.
+
+I like working across the stack — from logic and architecture to interface and deployment.
 
 - 🔭 Currently building an **ABAC Authorization System**
-- 📚 Studying **Python, TypeScript and Docker**
-- 🧠 Interested in backend architecture and performance
-- 🚀 Open to open-source collaboration
+- 📚 Exploring Python, TypeScript and Docker
+- 🚀 Open to collaborations and interesting projects
 
 ---
 
-### Tech Stack
+### Tech
 
-<p>
 Python · TypeScript · JavaScript · React · Next.js · Docker · PostgreSQL · Git
-</p>
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=PedroViana42&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=PedroViana42&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
 
 ### Contact
 
-<p>
-LinkedIn: PedroViana42 
-Discord: pedroviana42  
-Instagram: @pedroviana42
-</p>
+LinkedIn: PedroViana42
+Instagram: @pedroaug.amon
