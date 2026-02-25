@@ -1,66 +1,41 @@
-<div align="center">
-  <img height="180" src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif"  />
-  
-  <h1>Hi there, I'm Pedro Augusto!</h1>
-</div>
-
-### 👨‍💻 About Me
-
-Hi! I'm a Computer Science student passionate about technology and problem-solving. I’m constantly learning and improving my skills in software development.
-
-- 🔭 I’m currently working on an **ABAC Authorization System**.
-- 📚 Currently exploring **Python, TypeScript, and Docker**.
-- 🎯 Looking to collaborate on open-source projects.
+<h1 align="center">Pedro Augusto</h1>
+<p align="center">
+Computer Science Student • Backend Focus • Systems & Architecture
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+### About
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+Computer Science student passionate about building systems that are clean, scalable and well-structured.
 
-<br>
+- 🔭 Currently building an **ABAC Authorization System**
+- 📚 Studying **Python, TypeScript and Docker**
+- 🧠 Interested in backend architecture and performance
+- 🚀 Open to open-source collaboration
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
+### Tech Stack
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=PedroViana42&theme=dracula&hide_border=true" 
-    height="150" 
-  />
+<p>
+Python · TypeScript · JavaScript · React · Next.js · Docker · PostgreSQL · Git
+</p>
 
-  <br><br>
+---
 
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PedroViana42&theme=dracula&hide_border=true" 
-    width="90%"
-  />
+### GitHub Stats
 
-</div>
+<p align="center">
+  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=PedroViana42&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</p>
 
-<br>
+---
 
-### 📫 Connect with me
+### Contact
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-augusto-a4a908288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/811353497013846077" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/pedroaug.amon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+<p>
+LinkedIn: PedroViana42 
+Discord: pedroviana42  
+Instagram: @pedroviana42
+</p>
