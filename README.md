@@ -49,8 +49,8 @@ I enjoy solving back-end challenges and automating infrastructure to support dat
 
 ### 🤝 Connect with me
 
-* **LinkedIn:** [linkedin.com/in/PedroViana42](https://linkedin.com/in/PedroViana42)
-* **Instagram:** [@pedroviana42](https://instagram.com/pedroviana42)
+* **LinkedIn:** [linkedin.com/in/PedroViana42](www.linkedin.com/in/pedroaugustoviana)
+* **Instagram:** [@pedroviana42](https://instagram.com/pedro_viana42)
 
 ---
 <p align="center"><i>"Turning raw data into reliable insights through engineering."</i></p>
