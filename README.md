@@ -49,7 +49,7 @@ I enjoy solving back-end challenges and automating infrastructure to support dat
 
 ### 🤝 Connect with me
 
-* **LinkedIn:** [linkedin.com/in/PedroViana42](www.linkedin.com/in/pedroaugustoviana)
+* **LinkedIn:** [linkedin.com/in/PedroViana42](https://www.linkedin.com/in/pedroaugustoviana/)
 * **Instagram:** [@pedroviana42](https://instagram.com/pedro_viana42)
 
 ---
